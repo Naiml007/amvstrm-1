@@ -6,6 +6,8 @@ Nuxt 3 self-hostable anime streaming website with amvstrm's API.
 
 Read more in our [Documentation](https://amvdocs.pages.dev/introduction) 
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/amvstrm/amvstrm)
+
 ## Site Mirror
 
 __Good News! You can now access our website from our new domain 👇__
